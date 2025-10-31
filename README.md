@@ -1,0 +1,1 @@
+# Satellite-Image-Preprocessing-and-Spectral-Index-Computation-Pipeline
